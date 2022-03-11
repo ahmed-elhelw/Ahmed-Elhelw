@@ -13,7 +13,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Ahmed Abohegazy | Gmail" width="22px" src="icons/gmail_icon.png" />][Gmail]
+[<img align="left" alt="Ahmed Abohegazy | Gmail" width="22px" src="icons/hotmail.png" />][Gmail]
 
 [<img align="left" alt="Ahmed Abohegazy  | LinkedIn" width="22px" src="icons/linkedin_icon.png" />][linkedin]
 
