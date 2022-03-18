@@ -4,11 +4,9 @@
 
 ## I'm a Software engineer and looking forward to be a Data scientist 
 
-
-- 🌱 I’m currently learning everything 🤣
-- 👯  I’m looking to collaborate on Mahcine learning and deep learing development projects.
-- 🥅 2022 Goals: Contribute more to Open Source projects 
-- ⚡ My dream job: I am football fan and looking to use my skills in the football industry
+- I’m looking to collaborate on Mahcine learning and deep learing development projects.
+- 2022 Goals: Contribute more to Open Source projects 
+-  My dream job: I am football fan and looking to use my skills in the football industry
 
 ### Connect with me:
 
